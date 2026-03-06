@@ -48,5 +48,6 @@ I am also documenting this challenge on YouTube where I explain how each project
 Subscribe and follow the journey 🚀
 
 ---
-
+Day 1: https://youtu.be/dd9Zdcxm6Bo
+Day 2: https://youtu.be/LVw3pZz8NO4
 
