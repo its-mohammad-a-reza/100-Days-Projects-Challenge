@@ -35,6 +35,7 @@ Each project will include:
 |----|-------------|-----------|-------------|
 | 1 | Responsive Navbar | Coming Soon | Coming Soon |
 | 2 | Login Form UI | Coming Soon | Coming Soon |
+| 3 | Registration Form UI | Coming Soon | Coming Soon |
 
 
 (More projects will be added daily)
@@ -50,4 +51,5 @@ Subscribe and follow the journey 🚀
 ---
 Day 1: https://youtu.be/dd9Zdcxm6Bo
 Day 2: https://youtu.be/LVw3pZz8NO4
+DAy 3: https://youtu.be/dgk6nu9x68w
 
