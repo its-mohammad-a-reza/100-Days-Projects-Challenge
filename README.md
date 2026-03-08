@@ -49,6 +49,12 @@ I am also documenting this challenge on YouTube where I explain how each project
 Subscribe and follow the journey 🚀
 
 ---
+| Day | Project Name | Live Demo | Source Code |
+|----|-------------|-----------|-------------|
+| 1 | Responsive Navbar | Coming Soon | Coming Soon |
+| 2 | Login Form UI | Coming Soon | Coming Soon |
+| 3 | Registration Form UI | Coming Soon | Coming Soon |
+
 | Day 1: | https://youtu.be/dd9Zdcxm6Bo |
 Day 2: https://youtu.be/LVw3pZz8NO4
 DAy 3: https://youtu.be/dgk6nu9x68w
