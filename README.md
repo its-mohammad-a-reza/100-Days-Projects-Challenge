@@ -49,7 +49,7 @@ I am also documenting this challenge on YouTube where I explain how each project
 Subscribe and follow the journey 🚀
 
 ---
-| Day | Project Name | Live Demo | Source Code |
+| Day | Project Name | YouTube | Source Code |
 |----|-------------|-----------|-------------|
 | 1 | Responsive Navbar | https://youtu.be/dd9Zdcxm6Bo | Coming Soon |
 | 2 | Login Form UI | https://youtu.be/LVw3pZz8NO4 | Coming Soon |
